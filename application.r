@@ -9,7 +9,7 @@
 rm(list = objects())
 
 # Directory 
-setwd("/media/tatiane/239fb286-e175-4578-b0d3-48c750946446/RUBXII-ARMA_EES_Springer_oct2025/rubxiiarma_app")
+#setwd("....")
 
 # Required packages
 library(gdata) #allows to read excel files.  
