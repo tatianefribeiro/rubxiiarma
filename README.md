@@ -1,4 +1,4 @@
-# RUBXII-ARMA Model
+# RUBXII-ARMA model
 
 This repository provides R scripts to reproduce the application presented in the paper
 “A dynamical regression model for double-bounded time series based on the reflected unit Burr XII distribution.”
@@ -12,7 +12,7 @@ Run the main script:
 application.r – data analysis, model fitting, diagnostics, and forecasting
 
 
-## Competing Models
+## Competing models
 
 Implementations of the βARMA and KARMA models were obtained from:
 
